@@ -1,0 +1,66 @@
+- Title: September newsletter
+  Description: September 2024 newsletter
+  Topic: newsletter
+  Thumbnail: monthly-newsletter.png
+  Content: September-2024.md
+  Discoverable: true
+- Title: UptimeMatrix theme update
+  Description: Pulse and Spark themes update log
+  Topic: releases
+  Thumbnail: uptimematrix-releases.png
+  Content: uptimematrix-oct22-24.md
+  Discoverable: true
+- Title: URL Changes
+  Description: Information about our URL changes
+  Topic: newsletter
+  Thumbnail: wordmark.png
+  Content: url-change.md
+  Discoverable: true
+- Title: August newsletter
+  Description: August 2024 newsletter
+  Topic: newsletter
+  Thumbnail: monthly-newsletter.png
+  Content: August-2024.mdOw
+  Discoverable: false
+- Title: UptimeMatrix theme update
+  Description: Pulse and Spark themes update log
+  Topic: releases
+  Thumbnail: uptimematrix-releases.png
+  Content: uptimematrix-sep23-24.md
+  Discoverable: false
+- Title: UptimeMatrix theme update
+  Description: Pulse and Spark themes update log
+  Topic: releases
+  Thumbnail: uptimematrix-releases.png
+  Content: uptimematrix-sep18-24.md
+  Discoverable: false
+- Title: Owehost October megaupdate
+  Description: Announcement for Owehost's mega-update
+  Topic: releases
+  Thumbnail: owehost.png
+  Content: owehost-megaupdate.md
+  Discoverable: false
+- Title: Happy pride month!
+  Description: Happy pride month from Team Layeredy
+  Topic: announcements
+  Thumbnail: layeredy-pride.png
+  Content: pride-2024.md
+  Discoverable: false
+- Title: UptimeMatrix September update
+  Description: First development release for UptimeMatrix
+  Topic: announcements
+  Thumbnail: uptimematrix.png
+  Content: uptimematrix-sep13-24.md
+  Discoverable: false
+- Title: UptimeMatrix "Spark" release
+  Description: Our theme "Spark" has been released and is open-source
+  Topic: releases
+  Thumbnail: uptimematrix.png
+  Content: uptimematrix-spark-release.md
+  Discoverable: false
+- Title: Owehost Closure Letter
+  Description: Closure letter for Owehost
+  Topic: closures
+  Thumbnail: owehost-monochrome.png
+  Content: owehost-closure.md
+  Discoverable: false
