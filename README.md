@@ -1,3 +1,5 @@
+# Powered by Writea, blog used on [news.layeredy.com](https://news.layeredy.com)
+
 ![writea](https://github.com/prplwtf/writea/assets/103201875/8bd298e3-036f-40d5-8183-46b651299761)
 <p align="center">
   Fast and comfy open-source alternative for blogs.
