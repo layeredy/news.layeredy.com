@@ -64,3 +64,9 @@
   Thumbnail: owehost-monochrome.png
   Content: owehost-closure.md
   Discoverable: false
+- Title: Our 2024 presidential opinions
+  Description: Our opinions on the US 2024 elections
+  Topic: opinion
+  Thumbnail: wordmark.png
+  Content: 2024-election.md
+  Discoverable: false
