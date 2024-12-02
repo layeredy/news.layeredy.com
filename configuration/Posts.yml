@@ -4,6 +4,12 @@
   Thumbnail: wordmark.png
   Content: No-Updates.md
   Discoverable: true
+- Title: Encoded's closure
+  Description: More information about Encoded's closure
+  Topic: announcements
+  Thumbnail: wordmark.png
+  Content: Encoded-closure.md
+  Discoverable: true
 - Title: September newsletter
   Description: September 2024 newsletter
   Topic: newsletter
