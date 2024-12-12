@@ -3,6 +3,18 @@
   Topic: announcements
   Thumbnail: wordmark.png
   Content: No-Updates.md
+  Discoverable: false
+- Title: UptimeMatrix year-roundup
+  Description: Full-year roundup for UptimeMatrix and 2025 plans
+  Topic: announcements
+  Thumbnail: uptimematrix.png
+  Content: UptimeMatrix-2025.md
+  Discoverable: true
+- Title: Layeredy year-roundup
+  Description: Full-year roundup for Layeredy and 2025 plans
+  Topic: announcements
+  Thumbnail: wordmark.png
+  Content: Layeredy-2025.md
   Discoverable: true
 - Title: Why we're no longer a company
   Description: Explanation for why we are no longer a registered company
@@ -15,25 +27,25 @@
   Topic: announcements
   Thumbnail: wordmark.png
   Content: Encoded-closure.md
-  Discoverable: true
+  Discoverable: false
 - Title: September newsletter
   Description: September 2024 newsletter
   Topic: newsletter
   Thumbnail: monthly-newsletter.png
   Content: September-2024.md
-  Discoverable: true
+  Discoverable: false
 - Title: UptimeMatrix theme update
   Description: Pulse and Spark themes update log
   Topic: releases
   Thumbnail: uptimematrix-releases.png
   Content: uptimematrix-oct22-24.md
-  Discoverable: true
+  Discoverable: false
 - Title: URL Changes
   Description: Information about our URL changes
   Topic: newsletter
   Thumbnail: wordmark.png
   Content: url-change.md
-  Discoverable: true
+  Discoverable: false
 - Title: August newsletter
   Description: August 2024 newsletter
   Topic: newsletter
