@@ -4,6 +4,12 @@
   Thumbnail: wordmark.png
   Content: No-Updates.md
   Discoverable: false
+- Title: UptimeMatrix Integrations
+  Description: Information about integrations for UptimeMatrix
+  Topic: announcements
+  Thumbnail: uptimematrix.png
+  Content: UptimeMatrix-Integrations.md
+  Discoverable: true
 - Title: UptimeMatrix year-roundup
   Description: Full-year roundup for UptimeMatrix and 2025 plans
   Topic: announcements
