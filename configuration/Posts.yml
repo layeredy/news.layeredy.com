@@ -4,6 +4,12 @@
   Thumbnail: wordmark.png
   Content: No-Updates.md
   Discoverable: false
+- Title: ntepd release
+  Description: Release information for ntepd
+  Topic: announcements
+  Thumbnail: ntepd.png
+  Content: ntepd-release.md
+  Discoverable: true
 - Title: UptimeMatrix Integrations
   Description: Information about integrations for UptimeMatrix
   Topic: announcements
