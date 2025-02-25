@@ -4,6 +4,12 @@
   Thumbnail: wordmark.png
   Content: No-Updates.md
   Discoverable: false
+- Title: Stars Release (UptimeMatrix)
+  Description: Release info about the new Stars theme
+  Topic: announcements
+  Thumbnail: uptimematrix.png
+  Content: stars-theme-release.md
+  Discoverable: true
 - Title: ntepd release
   Description: Release information for ntepd
   Topic: announcements
