@@ -1,0 +1,3 @@
+# The lyrdy/ rebrand 
+
+As part of us moving to unify all of our software under one universal name, we will be dropping special names for softwares (legacy and future). For example, UptimeMatrix will become just Uptime or lyrdy/uptime. You can go to **lyrdy.co/** followed by any of our software names and it'll bring you to the product's page (for example lyrdy.co/uptime will bring you to the page for Uptime)

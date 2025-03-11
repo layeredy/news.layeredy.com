@@ -5,3 +5,6 @@ All URL structures for Layeredy-owned services have been updated. For example, "
 
 # Edit (October 25th, 2024)
 This change will be reverted on October 28th, 2024 due to some issues. We do not plan to switch back to using this structure. 
+
+# Edit 2 (March 11, 2025)
+We have started using layeredy.com/(product) as part of the rebrand of our services

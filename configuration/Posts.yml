@@ -1,10 +1,28 @@
+- Title: The lyrdy/ rebrand
+  Description: More information on our rebrand
+  Topic: announcements
+  Thumbnail: wordmark.png
+  Content: rebrand.md
+  Discoverable: true
+- Title: Introducing Backup
+  Description: Product release info for BackupCE & BackupHE
+  Topic: announcements
+  Thumbnail: backup_wordmark.png
+  Content: backup-intro.md
+  Discoverable: true
+- Title: Introducing Start
+  Description: Product release info for Start
+  Topic: announcements
+  Thumbnail: start_wordmark.png
+  Content: start-intro.md
+  Discoverable: true
 - Title: Infrequent updates
   Description: Explanation for why there hasn't been any updates recently
   Topic: announcements
   Thumbnail: wordmark.png
   Content: No-Updates.md
   Discoverable: false
-- Title: Stars Release (UptimeMatrix)
+- Title: Stars Release (Uptime)
   Description: Release info about the new Stars theme
   Topic: announcements
   Thumbnail: uptimematrix.png
@@ -15,25 +33,25 @@
   Topic: announcements
   Thumbnail: ntepd.png
   Content: ntepd-release.md
-  Discoverable: true
+  Discoverable: false
 - Title: UptimeMatrix Integrations
   Description: Information about integrations for UptimeMatrix
   Topic: announcements
   Thumbnail: uptimematrix.png
   Content: UptimeMatrix-Integrations.md
-  Discoverable: true
+  Discoverable: false
 - Title: UptimeMatrix year-roundup
   Description: Full-year roundup for UptimeMatrix and 2025 plans
   Topic: announcements
   Thumbnail: uptimematrix.png
   Content: UptimeMatrix-2025.md
-  Discoverable: true
+  Discoverable: false
 - Title: Layeredy year-roundup
   Description: Full-year roundup for Layeredy and 2025 plans
   Topic: announcements
   Thumbnail: wordmark.png
   Content: Layeredy-2025.md
-  Discoverable: true
+  Discoverable: false
 - Title: Why we're no longer a company
   Description: Explanation for why we are no longer a registered company
   Topic: announcements
