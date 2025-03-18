@@ -4,6 +4,12 @@
   Thumbnail: wordmark.png
   Content: rebrand.md
   Discoverable: true
+- Title: Introducing Docs
+  Description: Product release info for Docs
+  Topic: announcements
+  Thumbnail: docs.png
+  Content: docs-intro.md
+  Discoverable: true
 - Title: Introducing Backup
   Description: Product release info for BackupCE & BackupHE
   Topic: announcements
