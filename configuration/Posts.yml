@@ -1,3 +1,9 @@
+- Title: Happy pride month!
+  Description: Happy pride month from Team Layeredy!
+  Topic: announcements
+  Thumbnail: layeredy-pride.png
+  Content: pride-2025.md
+  Discoverable: false # will go live on june 1
 - Title: The lyrdy/ rebrand
   Description: More information on our rebrand
   Topic: announcements
@@ -112,7 +118,7 @@
   Thumbnail: owehost.png
   Content: owehost-megaupdate.md
   Discoverable: false
-- Title: Happy pride month!
+- Title: Happy pride month! (2024)
   Description: Happy pride month from Team Layeredy
   Topic: announcements
   Thumbnail: layeredy-pride.png
