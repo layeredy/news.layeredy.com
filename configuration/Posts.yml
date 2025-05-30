@@ -4,6 +4,12 @@
   Thumbnail: layeredy-pride.png
   Content: pride-2025.md
   Discoverable: false # will go live on june 1
+- Title: Account migrations & Privacy updates
+  Description: Info on account migrations and our privacy policy updates
+  Topic: announcements
+  Thumbnail: wordmark.png
+  Content: account-migration-2025.md
+  Discoverable: true
 - Title: The lyrdy/ rebrand
   Description: More information on our rebrand
   Topic: announcements
