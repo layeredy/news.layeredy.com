@@ -4,36 +4,42 @@
   Thumbnail: layeredy-pride.png
   Content: pride-2025.md
   Discoverable: true
+- Title: Midyear review
+  Description: A midyear review on our progress and plans
+  Topic: newsletter
+  Thumbnail: wordmark.png
+  Content: midyear-2025.md
+  Discoverable: true
 - Title: Account migrations & Privacy updates
   Description: Info on account migrations and our privacy policy updates
   Topic: announcements
   Thumbnail: wordmark.png
   Content: account-migration-2025.md
-  Discoverable: true
+  Discoverable: false
 - Title: The lyrdy/ rebrand
   Description: More information on our rebrand
   Topic: announcements
   Thumbnail: wordmark.png
   Content: rebrand.md
-  Discoverable: true
+  Discoverable: false
 - Title: Introducing Docs
   Description: Product release info for Docs
   Topic: announcements
   Thumbnail: docs.png
   Content: docs-intro.md
-  Discoverable: true
+  Discoverable: false
 - Title: Introducing Backup
   Description: Product release info for BackupCE & BackupHE
   Topic: announcements
   Thumbnail: backup_wordmark.png
   Content: backup-intro.md
-  Discoverable: true
+  Discoverable: false
 - Title: Introducing Start
   Description: Product release info for Start
   Topic: announcements
   Thumbnail: start_wordmark.png
   Content: start-intro.md
-  Discoverable: true
+  Discoverable: false
 - Title: Infrequent updates
   Description: Explanation for why there hasn't been any updates recently
   Topic: announcements
@@ -45,7 +51,7 @@
   Topic: announcements
   Thumbnail: uptimematrix.png
   Content: stars-theme-release.md
-  Discoverable: true
+  Discoverable: false
 - Title: ntepd release
   Description: Release information for ntepd
   Topic: announcements
